@@ -1,10 +1,4 @@
-import ConditionalRendering from "./ConditionalRendering";
-import Counter from "./Counter";
 import DemoForm from "./DemoForm";
-import Greet from "./Greet";
-import GreetClass from "./GreetClass";
-import ListRendering from "./ListRendering";
-import ParentComponent from "./ParentComponent";
 
 function App() {
   return (
